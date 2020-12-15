@@ -8,6 +8,10 @@ Here is a list of coding projects
 
 [balloon pop](https://scratch.mit.edu/projects/450929600)
 
+[Packman Maze](https://scratch.mit.edu/projects/455228925)
+
+[Odd and Even number check](https://scratch.mit.edu/projects/463609351)
+
 
 
 
