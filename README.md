@@ -12,6 +12,10 @@ Here is a list of coding projects
 
 [5. Packman Maze](https://scratch.mit.edu/projects/455228925)
 
+## my adafruit projects
+
+[1. Coin Toss](https://makecode.com/_7vxTrPKVMdu5)
+
 
 
 
