@@ -16,7 +16,7 @@ Here is a list of coding projects
 
 [1. Coin Toss](https://makecode.com/_7vxTrPKVMdu5)
 
-
+[2. Fortune Wheel](https://makecode.com/_i31CaR7JeLmF)
 
 
 
