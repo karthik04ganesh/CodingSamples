@@ -1,6 +1,6 @@
 # CodingSamples
 Here is a list of coding projects  
-## my scratch projects
+## My Scratch Projects
 
 [1. Apple arena level 1](https://scratch.mit.edu/projects/445669113)
 
@@ -12,17 +12,19 @@ Here is a list of coding projects
 
 [5. Packman Maze](https://scratch.mit.edu/projects/455228925)
 
-## my adafruit projects
+## My Adafruit Projects
 
 [1. Coin Toss](https://makecode.com/_7vxTrPKVMdu5)
 
 [2. Fortune Wheel](https://makecode.com/_R16bea6xq1JM)
 
+[3. Day counter](https://makecode.com/_b2xhXYKgrYtP)
 
+[4. Minute counter](https://makecode.com/_e4j5u1UYkEAA)
 
+[5. Voting machine](https://makecode.com/_fCV4sviqDR7v)
 
-
-
+[6. Cookie jar theif](https://makecode.com/_ah8EJHTU3eKH)
 
 
 
