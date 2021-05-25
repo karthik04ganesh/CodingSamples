@@ -1,6 +1,6 @@
 # CodingSamples
-Here is a list of coding projects  
-## My Scratch Projects
+## Here is a list of coding projects  
+###  Scratch Projects
 
 [1. Apple arena level 1](https://scratch.mit.edu/projects/445669113)
 
@@ -12,7 +12,7 @@ Here is a list of coding projects
 
 [5. Packman Maze](https://scratch.mit.edu/projects/455228925)
 
-## My Adafruit Projects
+###  Adafruit Projects
 
 [1. Coin Toss](https://makecode.com/_7vxTrPKVMdu5)
 
@@ -26,7 +26,9 @@ Here is a list of coding projects
 
 [6. Cookie jar theif](https://makecode.com/_ah8EJHTU3eKH)
 
+[7. Temperature sensor](https://makecode.com/_P1u28e7138vC)
 
+[8. automatic night lamp](https://makecode.com/_AAv6TX38UhqE)
 
 
 
