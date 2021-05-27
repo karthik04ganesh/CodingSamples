@@ -1,5 +1,5 @@
 # CodingSamples
-## Here is a list of coding projects  
+## Here is a List of Coding Projects  
 ###  Scratch Projects
 
 [1. Apple arena level 1](https://scratch.mit.edu/projects/445669113)
