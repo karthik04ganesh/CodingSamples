@@ -28,11 +28,11 @@
 
 [7. Temperature sensor](https://makecode.com/_P1u28e7138vC)
 
-[8. automatic night lamp](https://makecode.com/_AAv6TX38UhqE)
+[8. Automatic night lamp](https://makecode.com/_AAv6TX38UhqE)
 
+[9. Over cooking precoution](https://makecode.com/_1129uh01s4Cb)
 
-
-
+[10. Fridge door siren](https://makecode.com/_8xf4MeCe5Khw)
 
 
 
